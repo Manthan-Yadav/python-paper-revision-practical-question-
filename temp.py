@@ -1,0 +1,2 @@
+import gr
+gr.greet()
